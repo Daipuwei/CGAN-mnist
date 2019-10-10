@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/10/8 15:21
 # @Author  : Dai PuWei
-# @Site    : 广州山越有限公司
 # @File    : __init__.py.py
 # @Software: PyCharm
 
