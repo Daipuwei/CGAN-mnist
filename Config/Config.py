@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/10/8 13:44
 # @Author  : Dai PuWei
-# @Site    : 广州山越有限公司
 # @File    : Config.py
 # @Software: PyCharm
 
