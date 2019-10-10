@@ -7,7 +7,7 @@
 
 import os
 
-class CifarConfig(object):
+class MnistConfig(object):
 
     _defaults = {
         "generator_noise_input_dim": 100,
