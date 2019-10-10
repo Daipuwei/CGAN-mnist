@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/10/8 13:39
 # @Author  : Dai PuWei
-# @Site    : 广州山越有限公司
 # @File    : CGAN.py
 # @Software: PyCharm
 
