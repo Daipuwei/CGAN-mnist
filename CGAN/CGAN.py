@@ -44,13 +44,17 @@ def make_trainable(net, val):
 
 class CGAN(object):
 
-    def __init__(self,config):
+    def __init__(self,config,weight_path=None):
         """
         这是CGAN的初始化函数
         :param config: 参数配置类实例
+        :param weight_path: 权重文件地址，默认为None
         """
         self.config = config
         self.build_cgan_model()
+
+        if weight_path is not None:
+            self.cgan.load_weights(weight_path,by_name=True)
 
     def build_cgan_model(self):
         """
